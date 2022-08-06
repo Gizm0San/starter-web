@@ -1,1 +1,3 @@
 UnwantedDir
+*.log
+log/
